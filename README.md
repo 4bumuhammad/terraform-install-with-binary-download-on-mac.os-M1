@@ -140,19 +140,19 @@ Ada banyak <i>terraform command</i> yang bisa anda gunakan, tetapi disini saya a
 
 PENJELASAN:
 
-- → Terraform Init
+- **→ Terraform Init**
 
     Command ini wajib dijalankan pertama kali setelah anda selesai menulis code terraform anda. Tujuannya untuk inisialisasi. Anda harus masuk ke directory dimana terraform configuration file dibuat. Sebagai contoh, kita membuat file dengan nama main.tf, kemudian anda jalankan `terraform init` di directory dimana file main.tf itu berada.
 
-- → Terraform Plan
+- **→ Terraform Plan**
 
     Sebelum anda benar-benar menerapkan perubahan infrastructure di AWS atau provider lain yang anda pilih, Anda bisa melihat terlebih dahulu perubahan apa yang akan terjadi. Jadi anda bisa memastikan terlebih dahulu jika perubahannya adalah sesuai dengan yang anda buat. Setelah anda menjalankan `terraform init` , kemudian anda bisa menjalankan `terraform plan` untuk preview.
 
-- → Terraform Apply
+- **→ Terraform Apply**
 
     Setelah anda menjalankan `terraform init` dan menjalankan `terraform plan`, anda bisa menerapkan perubahan tersebut ke real infrastructure anda semisal di AWS dengan menjalankan command `terraform apply`. Ketika selesai dan succeeded, anda bisa cek di AWS apakah infrastructure atau resource yang anda buat/ubah benar-benar terbuat/terubah.
 
-- → Terraform Destroy
+- **→ Terraform Destroy**
 
     Anda harus berhati-hati dengan command ini, karena dengan menjalankan command `terraform destroy` berarti anda akan menghapus infrastructure yang anda buat.
 
