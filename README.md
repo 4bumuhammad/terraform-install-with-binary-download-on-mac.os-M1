@@ -132,3 +132,14 @@ Ada 3 tahapan inti didalam alur kerja terraform, yaitu :
 **Terraform Command** <br />
 
 Ada banyak <i>terraform command</i> yang bisa anda gunakan, tetapi disini saya akan menjelaskan beberapa command dasar yang umum digunakan untuk pemula. Untuk command lainnya bisa anda lihat <a href="https://developer.hashicorp.com/terraform/cli/commands">disini</a>. Beberapa command dasar yang umum digunakan untuk pemula adalah sebagai berikut:
+
+- `terraform init`
+- `terraform plan`
+- `terraform apply`
+- `terraform destroy`
+
+PENJELASAN:
+
+→ Terraform Init
+
+Command ini wajib dijalankan pertama kali setelah anda selesai menulis code terraform anda. Tujuannya untuk inisialisasi. Anda harus masuk ke directory dimana terraform configuration file dibuat. Sebagai contoh, kita membuat file dengan nama main.tf, kemudian anda jalankan terraform init di directory dimana file main.tf itu berada.
