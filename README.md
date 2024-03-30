@@ -166,6 +166,10 @@ PENJELASAN:
 
 &nbsp;
 
+<div align="center">
+    <img src="./thanks-green.png" alt="thanks-green" style="display: block; margin: 0 auto;">
+</div> 
+
 &nbsp;
 
 ---
