@@ -39,9 +39,15 @@
     ❯ pwd
         /Users/&lt;user&gt;
 
-    - with Binary download
-        `[macOS][ARM64]` `https://developer.hashicorp.com/terraform/install`
 </pre>
+
+&nbsp;
+
+with Binary download
+    `[macOS][ARM64]` `https://developer.hashicorp.com/terraform/install`
+
+&nbsp;
+
 <pre>
     ❯ ls -lah | grep terraform
 
