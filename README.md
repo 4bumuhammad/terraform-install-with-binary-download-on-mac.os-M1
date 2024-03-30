@@ -110,7 +110,7 @@ Reference :<br />
 **Core Terraform Workflow** <br />
 Ada 3 tahapan inti didalam alur kerja terraform, yaitu :
 
-WRITE → PLAN → APPLY
+**WRITE → PLAN → APPLY**
 
 - Write: Tulis terraform configuration dan initialize
 
