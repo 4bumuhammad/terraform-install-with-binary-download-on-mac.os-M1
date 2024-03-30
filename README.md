@@ -58,7 +58,7 @@ with Binary download <br />
 
     ❯ ls -lah /usr/local/bin  | grep terraform
 
-        -rwxr-xr-x@  1 &lt;user&gt;  staff    89M Mar 18 15:53 terraform
+            -rwxr-xr-x@  1 &lt;user&gt;  staff    89M Mar 18 15:53 terraform
 </pre>
 
 &nbsp;
