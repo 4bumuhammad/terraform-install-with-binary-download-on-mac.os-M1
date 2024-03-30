@@ -88,6 +88,10 @@ Make sure `/usr/local/bin` is also available in the PATH<br />
 
 ---
 
+**Documentation [Bahasa Indonesia]**
+
+## Terraform Untuk Pemula
+
 &nbsp;
 
 &nbsp;
