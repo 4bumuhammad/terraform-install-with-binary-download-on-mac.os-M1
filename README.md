@@ -6,7 +6,7 @@
 
 &nbsp;
 
-&#x1F516; Informasi pada perangkat pengguna.<br />
+&#x1F516; Information on the user's device.<br />
 
 <pre>
     ❯ system_profiler SPSoftwareDataType SPHardwareDataType
@@ -43,7 +43,7 @@
 
 ---
 
-with Binary download <br />
+with Binary download :<br />
 &emsp; &emsp; &emsp; `[macOS][ARM64]` `https://developer.hashicorp.com/terraform/install`
 
 ---
@@ -63,7 +63,7 @@ with Binary download <br />
 
 &nbsp;
 
-Pastikan `/usr/local/bin` tersedia juga pada PATH<br />
+Make sure `/usr/local/bin` is also available in the PATH<br />
 - output :<br /><br />
     /Users/.../bin:...:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/...
 
