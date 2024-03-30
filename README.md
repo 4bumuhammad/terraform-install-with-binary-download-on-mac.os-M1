@@ -130,4 +130,4 @@ Ada 3 tahapan inti didalam alur kerja terraform, yaitu :
 
 **Terraform Command** <br />
 
-Ada banyak <i>terraform command</i> yang bisa anda gunakan, tetapi disini saya akan menjelaskan beberapa command dasar yang umum digunakan untuk pemula. Untuk command lainnya bisa anda lihat disini. Beberapa command dasar yang umum digunakan untuk pemula adalah sebagai berikut:
+Ada banyak <i>terraform command</i> yang bisa anda gunakan, tetapi disini saya akan menjelaskan beberapa command dasar yang umum digunakan untuk pemula. Untuk command lainnya bisa anda lihat <a href="https://developer.hashicorp.com/terraform/cli/commands">disini</a>. Beberapa command dasar yang umum digunakan untuk pemula adalah sebagai berikut:
