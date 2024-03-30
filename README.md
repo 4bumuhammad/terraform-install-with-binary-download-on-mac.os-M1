@@ -4,6 +4,7 @@
 
 ## &#x1F530; Install Terraform (with Binary download) on macOS M1
 
+&nbsp;
 
 &#x1F516; Informasi pada perangkat pengguna.<br />
 
@@ -28,5 +29,59 @@
                 Memory: 8 GB
                 . . .
 </pre>
+
+&nbsp;
+
+
+## &#x1F530; Begin.
+
+<pre>
+    ❯ pwd
+        /Users/&lt;user&gt;
+
+    - with Binary download
+        `[macOS][ARM64]` `https://developer.hashicorp.com/terraform/install`
+</pre>
+<pre>
+    ❯ ls -lah | grep terraform
+
+        -rwxr-xr-x@   1 &lt;user&gt;  staff    89M Mar 18 15:53 terraform
+</pre>
+<pre>
+    ❯ sudo mv terraform /usr/local/bin
+
+    ❯ ls -lah /usr/local/bin  | grep terraform
+
+        -rwxr-xr-x@  1 &lt;user&gt;  staff    89M Mar 18 15:53 terraform
+</pre>
+
+&nbsp;
+
+Pastikan `/usr/local/bin` tersedia juga pada PATH<br />
+- output :<br /><br />
+    /Users/.../bin:...:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/...
+
+<pre>
+    ❯ terraform --version
+
+        Terraform v1.7.5
+        on darwin_arm64
+</pre>
+
+&#x1F31F; &#x1F31F;[DONE] &#x1F31F; &#x1F31F;
+
+&nbsp;
+
+---
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+---
+
+&nbsp;
 
 &nbsp;
