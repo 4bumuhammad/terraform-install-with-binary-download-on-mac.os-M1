@@ -147,3 +147,29 @@ PENJELASAN:
 - → Terraform Plan
 
     Sebelum anda benar-benar menerapkan perubahan infrastructure di AWS atau provider lain yang anda pilih, Anda bisa melihat terlebih dahulu perubahan apa yang akan terjadi. Jadi anda bisa memastikan terlebih dahulu jika perubahannya adalah sesuai dengan yang anda buat. Setelah anda menjalankan `terraform init` , kemudian anda bisa menjalankan `terraform plan` untuk preview.
+
+- → Terraform Apply
+
+    Setelah anda menjalankan `terraform init` dan menjalankan `terraform plan`, anda bisa menerapkan perubahan tersebut ke real infrastructure anda semisal di AWS dengan menjalankan command `terraform apply`. Ketika selesai dan succeeded, anda bisa cek di AWS apakah infrastructure atau resource yang anda buat/ubah benar-benar terbuat/terubah.
+
+- → Terraform Destroy
+
+    Anda harus berhati-hati dengan command ini, karena dengan menjalankan command `terraform destroy` berarti anda akan menghapus infrastructure yang anda buat.
+
+
+&nbsp;
+
+&nbsp;
+
+
+---
+
+&nbsp;
+
+&nbsp;
+
+---
+
+&nbsp;
+
+&nbsp;
