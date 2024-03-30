@@ -84,6 +84,10 @@ Make sure `/usr/local/bin` is also available in the PATH<br />
 
 &nbsp;
 
+<div align="center">
+    <img src="./ss_terraform_logo.png" alt="ss_terraform_logo" style="display: block; margin: 0 auto;">
+</div> 
+
 &nbsp;
 
 ---
