@@ -108,6 +108,7 @@ Reference :<br />
 &nbsp;
 
 **Core Terraform Workflow** <br />
+
 Ada 3 tahapan inti didalam alur kerja terraform, yaitu :
 
 **WRITE → PLAN → APPLY**
