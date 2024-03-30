@@ -41,12 +41,12 @@
 
 </pre>
 
-&nbsp;
+---
 
 with Binary download <br />
 &emsp; &emsp; &emsp; `[macOS][ARM64]` `https://developer.hashicorp.com/terraform/install`
 
-&nbsp;
+---
 
 <pre>
     ❯ ls -lah | grep terraform
