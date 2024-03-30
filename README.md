@@ -106,3 +106,12 @@ Reference :<br />
 **Terraform** adalah tool open source untuk membangun, mengubah dan membuat versi infrastructure dengan aman dan efisien. Biasanya dikenal dengan infrastructure as code. Terraform dibuat oleh HashiCorp.
 
 &nbsp;
+
+**Core Terraform Workflow** <br />
+Ada 3 tahapan inti didalam alur kerja terraform, yaitu :
+
+WRITE → PLAN → APPLY
+
+- Write: Tulis terraform configuration dan initialize
+
+    Anda bisa menulis code didalam terraform configuration file ( .tf ), kemudian lakukan initialize dengan command terraform init .
