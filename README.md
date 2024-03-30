@@ -112,6 +112,14 @@ Ada 3 tahapan inti didalam alur kerja terraform, yaitu :
 
 **WRITE → PLAN → APPLY**
 
-- Write: Tulis terraform configuration dan initialize
+- **Write:** Tulis terraform configuration dan initialize
 
-    Anda bisa menulis code didalam terraform configuration file ( .tf ), kemudian lakukan initialize dengan command terraform init .
+    Anda bisa menulis code didalam terraform configuration file ( .tf ), kemudian lakukan initialize dengan command `terraform init` .
+
+- **Plan:** Preview
+
+    Sebelum diterapkan ke infrastructure yang sebenarnya, anda bisa melakukan preview terlebih dahulu apa yang akan dibuat, ubah atau hapus sehingga lebih aman saat diterapkan ke infrastructure yang sebenarnya.
+
+- **Apply:** Terapkan ke real infrastructure
+
+    Setelah anda review, anda bisa menerapkan ke infrastructure yang sebenarnya dengan command `terraform apply` .
