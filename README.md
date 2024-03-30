@@ -44,7 +44,7 @@
 &nbsp;
 
 with Binary download <br />
-    `[macOS][ARM64]` `https://developer.hashicorp.com/terraform/install`
+&emsp; &emsp; &emsp; `[macOS][ARM64]` `https://developer.hashicorp.com/terraform/install`
 
 &nbsp;
 
