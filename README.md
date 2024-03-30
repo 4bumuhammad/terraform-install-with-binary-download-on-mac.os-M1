@@ -101,4 +101,8 @@ Reference :<br />
 
 &nbsp;
 
+### Apa itu Terraform ?
+
+**Terraform** adalah tool open source untuk membangun, mengubah dan membuat versi infrastructure dengan aman dan efisien. Biasanya dikenal dengan infrastructure as code. Terraform dibuat oleh HashiCorp.
+
 &nbsp;
