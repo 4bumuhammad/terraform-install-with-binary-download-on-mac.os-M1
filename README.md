@@ -142,4 +142,8 @@ PENJELASAN:
 
 - → Terraform Init
 
-    Command ini wajib dijalankan pertama kali setelah anda selesai menulis code terraform anda. Tujuannya untuk inisialisasi. Anda harus masuk ke directory dimana terraform configuration file dibuat. Sebagai contoh, kita membuat file dengan nama main.tf, kemudian anda jalankan terraform init di directory dimana file main.tf itu berada.
+    Command ini wajib dijalankan pertama kali setelah anda selesai menulis code terraform anda. Tujuannya untuk inisialisasi. Anda harus masuk ke directory dimana terraform configuration file dibuat. Sebagai contoh, kita membuat file dengan nama main.tf, kemudian anda jalankan `terraform init` di directory dimana file main.tf itu berada.
+
+- → Terraform Plan
+
+    Sebelum anda benar-benar menerapkan perubahan infrastructure di AWS atau provider lain yang anda pilih, Anda bisa melihat terlebih dahulu perubahan apa yang akan terjadi. Jadi anda bisa memastikan terlebih dahulu jika perubahannya adalah sesuai dengan yang anda buat. Setelah anda menjalankan `terraform init` , kemudian anda bisa menjalankan `terraform plan` untuk preview.
