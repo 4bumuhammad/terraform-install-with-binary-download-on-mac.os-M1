@@ -123,3 +123,11 @@ Ada 3 tahapan inti didalam alur kerja terraform, yaitu :
 - **Apply:** Terapkan ke real infrastructure
 
     Setelah anda review, anda bisa menerapkan ke infrastructure yang sebenarnya dengan command `terraform apply` .
+
+&nbsp;
+
+&nbsp;
+
+**Terraform Command** <br />
+
+Ada banyak <i>terraform command</i> yang bisa anda gunakan, tetapi disini saya akan menjelaskan beberapa command dasar yang umum digunakan untuk pemula. Untuk command lainnya bisa anda lihat disini. Beberapa command dasar yang umum digunakan untuk pemula adalah sebagai berikut:
